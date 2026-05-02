@@ -23,9 +23,6 @@ async function Log(stack, level, pkg, message) {
 
     const data = await res.json();
 
-    console.log("LOG STATUS:", res.status);
-    console.log("LOG RESPONSE:", data);
-
   } catch (err) {
     console.error("Logging failed:", err.message);
   }
