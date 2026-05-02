@@ -1,4 +1,4 @@
-# 🔔 Notification System Design
+# Notification System Design
 
 ---
 
